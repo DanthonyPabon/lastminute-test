@@ -2,6 +2,20 @@
 
 Mobile app test
 
+## About The Project
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://raw.githubusercontent.com/DanthonyPabon/lastminute-test/master/screenshop/screen-shop-one.png.png">
+    <img src="screenshop/screen-shop-one.png" alt="Logo" height="800">
+  </a>
+  <a href="https://raw.githubusercontent.com/DanthonyPabon/lastminute-test/master/screenshop/screen-shop-one.png.png">
+    <img src="screenshop/screen-shop-two.png" alt="Logo" height="800">
+  </a>
+</div>
+
+
 ## Requirements
 
 - Nodev v12 LTS (see <https://nodejs.org/download/release/latest-v12.x/)>
