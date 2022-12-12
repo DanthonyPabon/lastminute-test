@@ -19,7 +19,7 @@ Follow this guide <https://reactnative.dev/docs/environment-setup>
 
 ## Commands
 
-### npm
+### yarn
 
 `lint` run the typescript compiler and the eslint showing warnings and errors.
 
